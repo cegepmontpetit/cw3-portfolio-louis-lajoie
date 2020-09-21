@@ -1,0 +1,25 @@
+{
+  "name": "Configuration_de_base",
+  "version": "1.0.0",
+  "description": "Configuration de base pour l'intégration HTML.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cégep Édouard Montpetit",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "browser-sync": "^2.26.12",
+    "debug": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-strip-debug": "^3.0.0",
+    "sassy-normalize": "^8.0.5"
+  }
+}
